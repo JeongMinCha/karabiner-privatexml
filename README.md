@@ -1,7 +1,10 @@
 # private.xml in Karabiner
-
 I have been using [Karabiner](https://github.com/JeongMinCha/karabiner-privatexml).
-This application is priceless for Mac OS X User who want to map keys in keyboard.
+This application is priceless for Mac OS X User who want to map keys in keyboard.  
+
+This application supports features for customizing key-mapping.
+If you write _private.xml_ file in the way you like, the application would recognize
+the _private.xml_ file and add features you want.
 
 Your private XML file is located at
 ```
