@@ -21,3 +21,7 @@ you should write your _private.xml_ file like this:
 </item>
 ```
 This code means mapping "JIS_KANA" to "COMMAND_R"
+
+## The list of KeyCodes
+If you want to see the list of KeyCodes, you can visit [here](https://github.com/tekezo/Karabiner/blob/master/src/bridge/generator/keycode/data/KeyCode.data).
+You can use ```Command + F``` or ```Control + F``` to find something you want.
