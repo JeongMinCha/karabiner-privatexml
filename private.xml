@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+		<name>JIS_KANA to COMMAND_R</name>
+		<identifier>private.jis_kana_to_command_r</identifier>
+		<autogen>__KeyToKey__ KeyCode::JIS_KANA, KeyCode::COMMAND_R</autogen>
+	</item>
+	<item>
+		<name>JIS_EISUU to OPTION_R</name>
+		<identifier>private.jis_eisuu_to_option_r</identifier>
+		<autogen>__KeyToKey__ KeyCode::JIS_EISUU, KeyCode::OPTION_R</autogen>
+	</item>
+</root>
